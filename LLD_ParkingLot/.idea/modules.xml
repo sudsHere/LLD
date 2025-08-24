@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Elevator/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/../Elevator/Elevator/Elevator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD_ParkingLot.iml" filepath="$PROJECT_DIR$/LLD_ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LoggingSystem/LoggingSystem.iml" filepath="$PROJECT_DIR$/../LoggingSystem/LoggingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnakeAndLadder/SnakeAndLadder.iml" filepath="$PROJECT_DIR$/../SnakeAndLadder/SnakeAndLadder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VehicleReservationSystem/VehicleReservationSystem.iml" filepath="$PROJECT_DIR$/../VehicleReservationSystem/VehicleReservationSystem.iml" />
     </modules>
   </component>
 </project>
